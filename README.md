@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hello! i'm Ariiies, my name is Aries but my zodiac sign is Pisces.
-I really love programing and resolve programing problemas, i love python 
+I really enjoy programing and resolve programing problemas, i love python 
 because i'm interesting in machine learning, VC and similar, NPL, the data and
-data science.
+data science, more like a hobbie. i have skills in web dev too.
 i,m currently trying to learn more about data analytics and business itelligence.
 
 
