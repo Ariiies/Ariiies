@@ -1,10 +1,32 @@
-# 💫 About Me:
-Hello! i'm Ariiies, my name is Aries but my zodiac sign is Pisces.
-I really enjoy programing and resolve programing problemas, i love python 
-because i'm interesting in machine learning, VC and similar, NPL, the data and
-data science, more like a hobbie. i have skills in web dev too.
-i,m currently trying to learn more about data analytics and business itelligence.
+# 👋 Hi, I'm Aries (aka Ariiies)
 
+I'm a developer who loves turning data into insights and ideas into working applications. By day, I work with **Laravel, Filament, Livewire, and React** building robust web solutions. By night, I dive into **Python** to explore machine learning, data science, and NLP — because solving problems with code never gets old.
+
+## 🧠 What I do
+
+**💼 Professional Stack:**
+- Backend: Laravel, FastAPI, Python
+- Frontend: React, Livewire, Filament (TALL stack)
+- Databases: PostgreSQL, MySQL
+- Tools: Docker, Git, CI/CD
+
+**🔬 Hobby Lab:**
+- Machine Learning & Computer Vision (CV)
+- Natural Language Processing (NLP)
+- Data Analytics & Business Intelligence
+- Data Science with Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+
+## 📊 Currently exploring
+
+I'm leveling up my **Data Analytics and Business Intelligence** skills — turning raw data into actionable insights that drive decisions. If you have tips, projects, or just want to chat about data, hit me up!
+
+## 🌌 Fun fact
+
+I'm a Pisces who goes by Aries — maybe that's why I balance logic (code) with creativity (data stories). 
+
+---
+
+✨ *Open to collaborations, learning opportunities, and good conversations about code, data, or the universe.*
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aries7Allen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sleep.ari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AriesAllen7) 
